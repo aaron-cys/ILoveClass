@@ -357,6 +357,11 @@ ul {
   list-style: disc;
 }
 
+ul.white {
+  list-style: disc;
+  color: white;
+}
+
 li {
   display: list-item;
 }
